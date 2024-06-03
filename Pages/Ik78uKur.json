@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "dialog",
+  "parent": "cR830rl1",
+  "path": "dialog.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Ik78uKur",
+  "value": "dialog",
+  "values": {
+    "addProcedure": "Internal",
+    "title": "() => { return \"Add \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"gEsiyygM\").singleName }",
+    "introText": "() => { return \"Enter \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"gEsiyygM\").singleName + \" data\" }",
+    "color": "primary",
+    "table": "gEsiyygM",
+    "button": "Add",
+    "editButton": "Edit",
+    "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"gEsiyygM\").singleName }",
+    "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"gEsiyygM\").singleName + \" data\" }"
+  }
+}

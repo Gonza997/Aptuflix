@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "dtfield",
+  "parent": "I5gTsL0F",
+  "path": "dtfield.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "lM1qCdoK",
+  "value": "dtfield",
+  "values": {
+    "Field": "XOuoFIRM",
+    "Type": "show"
+  }
+}

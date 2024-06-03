@@ -1,0 +1,11 @@
+{
+  "cascades": true,
+  "name": "Language",
+  "open": false,
+  "parent": "Z25xpRMV",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7NVo5Sw8",
+  "value": "dummyEncloser"
+}

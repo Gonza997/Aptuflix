@@ -1,0 +1,37 @@
+{
+  "cascades": false,
+  "extraFiles": [
+    {
+      "source": "elements/Experimental/DataTable/dataTable.tsx",
+      "destination": "front-end/components/DataTable/dataTable.tsx"
+    },
+    {
+      "source": "elements/Experimental/DataTable/table.module.scss",
+      "destination": "front-end/components/DataTable/table.module.scss"
+    },
+    {
+      "source": "elements/Experimental/DataTable/thHeader.tsx",
+      "destination": "front-end/components/DataTable/thHeader.tsx"
+    }
+  ],
+  "name": "Data Table",
+  "parent": "hKV5DFae",
+  "path": "dataTable.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"@tanstack/react-table\": \"8.7.9\","
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "I5gTsL0F",
+  "value": "dataTable",
+  "values": {
+    "allowSorting": true,
+    "allowEdit": true,
+    "allowPagination": true,
+    "table": "gEsiyygM"
+  }
+}

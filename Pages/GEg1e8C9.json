@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "cR830rl1",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GEg1e8C9",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "n3pmHsUX346smwTV",
+  "createdAt": 1717370633529,
+  "modifiedAt": 1717378977044,
+  "lastBuild": 1717378977042,
+  "settings": {
+    "name": "Aptuflix",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "Aptuflix",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://aptuflixlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/aptuflix"
+    },
+    "stagging": {
+      "apiURL": "https://aptuflixlite.aptugo.app",
+      "type": "Local",
+      "folder": "Aptuflix_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://aptuflixlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/aptuflix"
+    },
+    "production": {
+      "apiURL": "https://aptuflixlite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "Aptuflix",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://aptuflixlite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/aptuflix"
+    }
+  }
+}
